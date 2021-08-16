@@ -1,0 +1,10 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+/ConsoleConnectToApi/bin/Debug/net5.0
+/ConsoleConnectToApi/obj
+/Wasm/bin/Debug/net5.0
+/Wasm/obj
+/Api/bin/Debug/net5.0
+/Api/obj
